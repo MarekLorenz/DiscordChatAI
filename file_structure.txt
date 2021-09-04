@@ -1,0 +1,2 @@
+Store your Cornell Movie Dialogue Corpus in \data in the same directory as your cbv1.py and at
+first run your checkpoint data will be storedin save\cb_model\cornell movie-dialogs corpus\2-2_500.
